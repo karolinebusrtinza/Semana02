@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\bin\Debug\netcoreapp3.1\Lab02-01.exe
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\bin\Debug\netcoreapp3.1\Lab02-01.deps.json
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\bin\Debug\netcoreapp3.1\Lab02-01.runtimeconfig.json
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\bin\Debug\netcoreapp3.1\Lab02-01.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\bin\Debug\netcoreapp3.1\Lab02-01.dll
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\bin\Debug\netcoreapp3.1\Lab02-01.pdb
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02-01.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02_01.EjemploMDI.resources
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02_01.frmLogin.resources
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02-01.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02-01.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02-01.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02-01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02-01.dll
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02-01.pdb
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02-01.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Lab02-01\Lab02-01\obj\Debug\netcoreapp3.1\Lab02_01.ManUsuario.resources
